@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8" />
+	<title>Smart Spectacles</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="stylesheet" href="css/fonts.css" />
+	<link rel="stylesheet" media="(min-width: 768px)" href="css/home.css" />
+	<link rel="stylesheet" media="(max-width: 767px)" href="css/home-small.css"/>
+	
+	
+</head>
+<body>
+	<header>
+		<nav>
+			<img src="images/logo white.png" alt="logo"/>
+			<ul>
+				<li><a href="#">Home</a></li>
+				<li><a href="instruction.html">Instruction</a></li>
+				<li><a href="product.html">Product</a></li>
+				<li><a href="help us.html">Help us improve</a></li>
+				<li><a href="how.html">How it works</a></li>
+				<li><a href="shop.html">Shop</a></li>
+				<li><a href="contact.html">Contact</a></li>
+			</ul>
+		</nav>
+	</header>
+	<section class="wrapperone">
+		<div class="video">
+		<center><iframe width="853" height="480" src="https://www.youtube.com/embed/gJwO_WpI42I" frameborder="0" allowfullscreen></iframe></center>
+		</div>
+	</section>
+	<aside>
+		<img src="images/spectacles.png" alt="spectacle"/>
+		<p>
+		Product: A device/ neuroheadset that lets you control everything with your thoughts, combining your glasses with an easy to use interface/ screen for a small price. It scans and analyzes the brain activity to control things that happen on a screen or around you. You can see them as some kind of google-glasses for Telekinesis, but without being bugged by the interface in front of your eyes. 
+		Elderly mostly like to stick to their daily routine and don't like smartphones or things that take them away from the real life. So a device that is intuitive and just does everything with the power of your thoughts wouldn't be difficult to learn. Because they are glasses, you would always have them with you, you can't forget them and it would also look pretty normal. 
+		Problem Definition: For Elderly technology is usually difficult to handle and learn.
+		Solution to problem and what the product offers: easy technology, happiness (connection), joyful memories, health (reminder and stress levels), guidance (navigation), safety. 
+		</p>
+
+	</aside>
+	<h1>Testimonials</h1>
+	<section class="wrappertwo">
+		<p>"This is amazing!" </br> - John Smith</p></br>
+		<p>"What a wonderful device" </br> - Phill Thompson </p></br>
+		<p>"Makes my life much easier" </br> - Margaret Van Hoover </p></br>
+		<p>"It's so easy to use"</br> - Ken Lee </p></br>
+		<p>"Never get lost again" </br> - Emma Olivia </p></br>
+	</section>
+	
+	
+</body>
+</html>
